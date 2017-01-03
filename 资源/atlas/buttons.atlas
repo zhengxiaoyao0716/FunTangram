@@ -1,0 +1,174 @@
+
+buttons.png
+size: 1024,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+back0
+  rotate: false
+  xy: 360, 186
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+back1
+  rotate: false
+  xy: 360, 94
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+buoy
+  rotate: false
+  xy: 938, 997
+  size: 50, 25
+  orig: 50, 25
+  offset: 0, 0
+  index: -1
+cancel0
+  rotate: false
+  xy: 324, 278
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+cancel1
+  rotate: false
+  xy: 684, 617
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+full0
+  rotate: false
+  xy: 345, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+full1
+  rotate: false
+  xy: 437, 2
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+palette0
+  rotate: false
+  xy: 454, 282
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+palette1
+  rotate: false
+  xy: 546, 282
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+part_a
+  rotate: false
+  xy: 230, 3
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+part_b
+  rotate: false
+  xy: 324, 408
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+part_c
+  rotate: false
+  xy: 684, 747
+  size: 226, 113
+  orig: 226, 113
+  offset: 0, 0
+  index: -1
+part_d
+  rotate: false
+  xy: 456, 634
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+part_e
+  rotate: false
+  xy: 2, 20
+  size: 226, 226
+  orig: 226, 226
+  offset: 0, 0
+  index: -1
+part_f
+  rotate: false
+  xy: 456, 862
+  size: 480, 160
+  orig: 480, 160
+  offset: 0, 0
+  index: -1
+part_g
+  rotate: false
+  xy: 2, 248
+  size: 320, 320
+  orig: 320, 320
+  offset: 0, 0
+  index: -1
+part_h
+  rotate: false
+  xy: 2, 570
+  size: 452, 452
+  orig: 452, 452
+  offset: 0, 0
+  index: -1
+replay0
+  rotate: false
+  xy: 638, 525
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+replay1
+  rotate: false
+  xy: 638, 433
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+setting0
+  rotate: false
+  xy: 814, 617
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+setting1
+  rotate: false
+  xy: 230, 118
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+stick
+  rotate: false
+  xy: 616, 382
+  size: 20, 250
+  orig: 20, 250
+  offset: 0, 0
+  index: -1
+yes0
+  rotate: false
+  xy: 486, 504
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+yes1
+  rotate: false
+  xy: 486, 374
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,31 @@
+font.name=方正隶书简体
+font.size=48
+font.bold=false
+font.italic=false
+
+font2.file=
+font2.use=false
+
+pad.top=0
+pad.right=0
+pad.bottom=0
+pad.left=0
+pad.advance.x=0
+pad.advance.y=0
+
+glyph.native.rendering=false
+glyph.page.width=512
+glyph.page.height=512
+glyph.text=ABCDEFGHIJKLMNOPQRSTUVWXYZ\nabcdefghijklmnopqrstuvwxyz\n1234567890\n"!`?'.,;:()[]{}<>|/@\^$-%+=#_&~*\n确定要退出吗？重新开始
+
+effect.class=com.badlogic.gdx.tools.hiero.unicodefont.effects.ColorEffect
+effect.Color=666666
+
+effect.class=com.badlogic.gdx.tools.hiero.unicodefont.effects.ShadowEffect
+effect.Color=999999
+effect.Opacity=0.3
+effect.X distance=3.0
+effect.Y distance=3.0
+effect.Blur kernel size=0
+effect.Blur passes=1
+
